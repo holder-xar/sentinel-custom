@@ -10,7 +10,7 @@
 
     <properties>
         <sentinel.version>1.6.0</sentinel.version>
-        <spring.version>4.2.3.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
     </properties>
     <dependencies>
         <!--transport-->
